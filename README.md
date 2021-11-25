@@ -12,7 +12,7 @@ This repo will serve as a hub for my attempted solutions to the exercise as well
 3.  reverseString [✅]
 4.  removeFromArray [✅]
 5.  sumAll [✅]
-6.  leapYears []
+6.  leapYears [✅]
 7.  tempConversion []
 8.  calculator []
 9.  palindromes []
