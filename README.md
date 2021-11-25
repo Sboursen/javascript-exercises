@@ -10,7 +10,7 @@ This repo will serve as a hub for my attempted solutions to the exercise as well
 1.  helloWorld [✅]
 2.  repeatString [✅]
 3.  reverseString [✅]
-4.  removeFromArray []
+4.  removeFromArray [✅]
 5.  sumAll []
 6.  leapYears []
 7.  tempConversion []
